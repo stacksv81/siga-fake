@@ -1,0 +1,8 @@
+Improve PDF generation to only include scheduled classes
+
+Refactor the PDF generation logic to create a temporary element containing only the scheduled classes, and then capture this element as an image using html2canvas.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 831c8641-2064-4781-a8e4-375a1a1c5c08
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/983ea208-d270-495f-b9b7-3b019509d5e3/831c8641-2064-4781-a8e4-375a1a1c5c08/pdPxt5A
